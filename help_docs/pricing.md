@@ -344,6 +344,6 @@ slug: pricing
 - For “Paid Accounts”
     - Maximum of 50 participants in one video conference room
     - Maximum of 9 speakers in one Livestream speaker room
-    - Maximum of 100 viewers in one Interactive Livestream (If used with chat feature)
+    - Maximum of 1000 viewers in one Interactive Livestream (If used with chat feature)
     
     Note: Please contact us if you want to enhance the aforementioned quota for your [subscribed account](https://videosdk.live/contact)
